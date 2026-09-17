@@ -1,0 +1,1 @@
+"""YASI backend application package."""
